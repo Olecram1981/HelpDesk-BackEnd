@@ -8,6 +8,7 @@ import javax.persistence.Entity;
 import javax.persistence.OneToMany;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import com.marcelo.helpdesk.domain.dtos.ClienteDTO;
 import com.marcelo.helpdesk.domain.enums.Perfil;
 
 @Entity
